@@ -1,6 +1,9 @@
 {
-  "name": "aster-component",
+  "name": "@ayrbox/aster-components",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/@ayrbox"
+  }
 }
